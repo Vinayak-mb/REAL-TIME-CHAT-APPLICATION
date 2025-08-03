@@ -1,9 +1,7 @@
-## Welcome to Private and Public Chat Socket.IO App by Wilbert Muza ##
+## Welcome to Private and Public Chat Socket.IO  ##
 
 ### Socket.IO Real-Time Chat with Auto Reply ### 
-   July, 2018 
-
-![picture alt](https://wmuza.github.io/SocketIO-Chat-App/public/img/chat-app.PNG "Chat")
+   
    
 ### FEATURING THE FASTEST AND MOST RELIABLE REAL-TIME ENGINE ###
 Real-Time Chat is powered by Socket.IO. is a web application that allows multiple users to have a private and public chat.
